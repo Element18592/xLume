@@ -46,3 +46,6 @@ The following commands should be passed over UART. The first is the main commman
 ## Simple Wiring Diagram
 
 <img src="Images/diagram.png" alt="Simple Wiring Diagram" width="600">
+
+Recommended LED Strips: https://a.co/d/2hvjQGv
+Recommended Programmer: https://a.co/d/huijcmV
