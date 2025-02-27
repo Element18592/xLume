@@ -30,8 +30,10 @@ The following commands should be passed over UART. The first is the main commman
 [xLume] - Effects: 7<br>
 
 <b>(Dynamic Twinkle)</b><br>
-[xLume] - Effects: 8
+[xLume] - Effects: 8<br>
 
+<b>Setting your LED count</b></br>
+[xLume] - ledCount: 10
 
 ### Demo Video:  
 
