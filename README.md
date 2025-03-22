@@ -1,7 +1,12 @@
 # xLume
 xLume is an LED controller project built with the ESP8266. It works with the alongside the xLume Xbox application and connects via UART to receive commands from the 360. The following is a breakdown of the current commands that can be called to activate the different colors and modes.
+
+> [!IMPORTANT]  
+> In order for xLume to function properly please ensure that you have debug output enabled in your dashlaunch launch.ini
+> 
+> debugout = true
  
-The following commands should be passed over UART. The first is the main commmand and passes a color to the controller/LEDs which serves as a basis for most of the effects below. In this example we're setting the R, G, B value to Blue at full brightness.<br><br>
+The following commands should be passed over UART (this is done via the Xbox xLume app). The first is the main commmand and passes a color to the controller/LEDs which serves as a basis for most of the effects below. In this example we're setting the R, G, B value to Blue at full brightness.<br><br>
 <b>(Set Color)</b><br>
 [xLume] - 0, 0, 255 <br>
 
