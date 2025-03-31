@@ -56,3 +56,5 @@ The following commands should be passed over UART (this is done via the Xbox xLu
 
 Recommended LED Strips: https://a.co/d/2hvjQGv<br>
 Recommended Programmer: https://a.co/d/huijcmV
+
+You can flash the firwmare with <a href="https://esp.huhn.me/">ESPWEBTool</a>
